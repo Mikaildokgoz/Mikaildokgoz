@@ -40,25 +40,28 @@ Here are some ideas to get you started:
     
 <details align="center">
   <summary><h3><em>Click For Javascript Projects!</em></h3></summary>
- 
-  <p><a href="https://ersenozturk.github.io/movie-booking-app/" target="_blank" rel="noreferrer">movie-booking-app</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/country-neighbours/" target="_blank" rel="noreferrer">country-neighbours</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/weather-app/" target="_blank" rel="noreferrer">Weather App</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/registerUserPage-axios-exercise/" target="_blank" rel="noreferrer">registerUserPage-axios-exercise</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/profileFinderFromApi/" target="_blank" rel="noreferrer">profileFinderFromApi</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/questionApp/" target="_blank" rel="noreferrer">questionApp</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/JSON-exercise1/" target="_blank" rel="noreferrer">JSON-exercise1</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/iphone-calculator/" target="_blank" rel="noreferrer">iphone-calculator</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/Check-Daily-Routine/" target="_blank" rel="noreferrer">Check-Daily-Routine</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/checkout-Js/" target="_blank" rel="noreferrer">checkout-Js</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/lucky-numbes/" target="_blank" rel="noreferrer">lucky-numbes</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/spinner/" target="_blank" rel="noreferrer">spinner</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/exact-age-calculator/" target="_blank" rel="noreferrer">exact-age-calculator</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/number-guessing-game/" target="_blank" rel="noreferrer">number-guessing-game</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/todoApp(createdDoubleList)/" target="_blank" rel="noreferrer">todoApp(createdDoubleList)</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/todoApp(advanced)/" target="_blank" rel="noreferrer">todoApp(advanced)</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/add-delete-item(intermediate)/" target="_blank" rel="noreferrer">add-delete-item(intermediate)</a></p>
-  <p><a href="https://ersenozturk.github.io/Javascript-Exercises/ping-pong-game/" target="_blank" rel="noreferrer">ping-pong-game</a></p>
+   <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/LotteryGame" target="_blank" rel="noreferrer">1 --> LuckyNumbes</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/CountryNeighbours" target="_blank" rel="noreferrer">2 --> CountryNeighbours</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/CheckoutPage" target="_blank" rel="noreferrer">3 --> Checkout</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/Portfolio_SASS_Project" target="_blank" rel="noreferrer">4 --> PortfolioProject_SASS </a></p>
+   <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/ExactAgeCalculator" target="_blank" rel="noreferrer">5 --> ExactAgeCalculator</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(basic)" target="_blank" rel="noreferrer">6 --> AddDeleteItem(basic)</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/PingPong-Game" target="_blank" rel="noreferrer">7 --> PingPong-Game</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/AddDeleteItem(intermediate)" target="_blank" rel="noreferrer">8 --> AddDeleteItem(intermediate)</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/todoApp(advanced)" target="_blank" rel="noreferrer">9 --> TodoApp(advanced)</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/todoApp(createdDoubleList)" target="_blank" rel="noreferrer">10 --> TodoApp(createdDoubleList)</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/NumberGuessing-Game" target="_blank" rel="noreferrer">11 --> NumberGuessingGame</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/SpinnerCalculator" target="_blank" rel="noreferrer">12 --> SpinnerNumbers</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/CheckDailyRoutine" target="_blank" rel="noreferrer">13 --> CheckDailyRoutine</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/IOS_Calculator" target="_blank" rel="noreferrer">14 --> IphoneCalculator</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/JSON-Exercise" target="_blank" rel="noreferrer">15 --> JSON_exercise</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/questionApp" target="_blank" rel="noreferrer">16 --> QuestionApp</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/profileFinderFromApi" target="_blank" rel="noreferrer">17 --> ProfileFinderFromApi</a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/RegisterUserPage-AxiosExercise" target="_blank" rel="noreferrer">18 --> RegisterUserPage_Axios-Exercise </a></p>
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/WeatherApp" target="_blank" rel="noreferrer">19 --> WeatherApp</a></p>
+  
+  
+  <p><a href="https://mikaildokgoz.github.io/JavaScriptProject/restApi-HTTPGetRequest/" target="_blank" rel="noreferrer">20 --> RestApi_HTTP_GetRequest </a></p>
  
 </details>
   <hr/>
@@ -66,12 +69,12 @@ Here are some ideas to get you started:
 <details align="center">
   <summary><h3><em>Click For HTML/CSS Projects!</em></h3></summary>
   
-  <p><a href="https://ersenozturk.github.io/hotel-site-project/" target="_blank" rel="noreferrer">hotel-site-project</a></p>
-  <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/Portfolio-ersenozturk/index.html" target="_blank" rel="noreferrer">Portfolio-ersenozturk</a></p>
-  <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/sass/index.html" target="_blank" rel="noreferrer">SASS</a></p>
-  <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/responsive_web(using_flexbox)/index.html" target="_blank" rel="noreferrer">responsive_web(using_flexbox)</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/SASS_Project" target="_blank" rel="noreferrer">SASS_Project</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/PARALAX-example" target="_blank" rel="noreferrer">Paralax</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/PARALAX-example" target="_blank" rel="noreferrer">Google</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/grid" target="_blank" rel="noreferrer">Grid</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/parallax-web-site/index.html" target="_blank" rel="noreferrer">parallax-web-site</a></p>
-  <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/netflixSurvey/index.html" target="_blank" rel="noreferrer">netflixSurvey</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/netflix_survey" target="_blank" rel="noreferrer">netflixSurvey</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/impossible_is_nothing_web_design/index.html" target="_blank" rel="noreferrer">impossible_is_nothing_web_design</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/LanguageCourseSurveyForm/index.html" target="_blank" rel="noreferrer">LanguageCourseSurveyForm</a></p>
   

@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Mikaildokgoz/Mikaildokgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ersen</h1>
-<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about <a href="https://github.com/ersenozturk?tab=repositories">**projects!**</a></h3>
+<h1 align="center">Hi 👋, I'm Mikail</h1>
+<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about <a href="https://github.com/Mikaildokgoz?tab=repositories">**projects!**</a></h3>
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
-  <p><a href="https://react-random-app2.netlify.app/" target="_blank" rel="noreferrer">Random App2</a></p>
+  <p><a href="https://reactrandomuser2.netlify.app/" target="_blank" rel="noreferrer">Random_App2</a></p>
   <p><a href="https://fireblogapp-mikers.netlify.app/" target="_blank" rel="noreferrer">FireBlogApp</a></p>
-  <p><a href="https://firebase-react-movie-app.netlify.app/" target="_blank" rel="noreferrer">react-movie-app</a></p>
-  <p><a href="https://ersenozturk.github.io/react-recipe-app" target="_blank" rel="noreferrer">react-recipe-app</a></p>
-  <p><a href="https://ersenozturk.github.io/react-random-user-app" target="_blank" rel="noreferrer">react-random-user-app</a></p>
-  <p><a href="https://ersenozturk.github.io/react-task-tracker" target="_blank" rel="noreferrer">react-task-tracker</a></p>
-  <p><a href="https://ersenozturk.github.io/react-tour-place" target="_blank" rel="noreferrer">react-tour-places</a></p>
-  <p><a href="https://ersenozturk.github.io/react-language-cards/" target="_blank" rel="noreferrer">react-language-cards</a></p>
+   <p><a href="https://Mikaildokgoz.github.io/RecipeApp" target="_blank" rel="noreferrer">RecipeApp</a></p>
+  <p><a href="https://firebase-movieapp.netlify.app/" target="_blank" rel="noreferrer">ReactMovieApp</a></p>
+  <p><a href="https://reactrandomuser2.netlify.app/" target="_blank" rel="noreferrer">ReactRandomUserApp</a></p>
+  <p><a href="https://tasktracer.netlify.app/" target="_blank" rel="noreferrer">ReactTaskTracker</a></p>
+  <p><a href="https://react-projecttour.netlify.app" target="_blank" rel="noreferrer">ReactTourPlaces</a></p>
+  <p><a href="https://mikail-language-cards.netlify.app" target="_blank" rel="noreferrer">ReactLanguageCards</a></p>
+  
   
 </details>
   <hr/>

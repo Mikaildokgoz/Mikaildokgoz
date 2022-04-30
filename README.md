@@ -93,4 +93,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersenozturk&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersenozturk&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ersenozturk&label=Profile%20views&color=0e75b6&style=flat" alt="ersenozturk" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ersenozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mike" /> </h3>

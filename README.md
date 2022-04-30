@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
   <p><a href="https://reactrandomuser2.netlify.app/" target="_blank" rel="noreferrer">Random_App2</a></p>
-  <p><a href=" https://reactrandomapp1.netlify.app" target="_blank" rel="noreferrer">Random_App1</a></p>
+  <p><a href="https://reactrandomapp1.netlify.app" target="_blank" rel="noreferrer">Random_App1</a></p>
   <p><a href="https://fireblogapp-mikers.netlify.app/" target="_blank" rel="noreferrer">FireBlogApp</a></p>
   <p><a href="https://Mikaildokgoz.github.io/RecipeApp" target="_blank" rel="noreferrer">RecipeApp</a></p>
   <p><a href="https://firebase-movieapp.netlify.app/" target="_blank" rel="noreferrer">ReactMovieApp</a></p>

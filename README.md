@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   
   <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/SASS_Project" target="_blank" rel="noreferrer">SASS_Project</a></p>
   <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/PARALAX-example" target="_blank" rel="noreferrer">Paralax</a></p>
-  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/PARALAX-example" target="_blank" rel="noreferrer">Google</a></p>
+  <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/google" target="_blank" rel="noreferrer">Google</a></p>
   <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/grid" target="_blank" rel="noreferrer">Grid</a></p>
   <p><a href="https://ersenozturk.github.io/HTML-CSS-Exercises/parallax-web-site/index.html" target="_blank" rel="noreferrer">parallax-web-site</a></p>
   <p><a href="https://github.com/Mikaildokgoz/HTML-CSS/tree/main/projects/netflix_survey" target="_blank" rel="noreferrer">netflixSurvey</a></p>

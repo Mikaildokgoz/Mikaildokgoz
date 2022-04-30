@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 <p>&nbsp</p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ersenozturk&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ersenozturk&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersenozturk&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mikaildokgoz&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikaildokgoz&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaildokgoz&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ersenozturk&label=Profile%20views&color=0e75b6&style=flat" alt="mike" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Mikaildokgoz&label=Profile%20views&color=0e75b6&style=flat" alt="mike" /> </h3>

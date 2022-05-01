@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <p><a href="https://reactrandomapp1.netlify.app" target="_blank" rel="noreferrer">ReactRandomUserApp1</a></p>
   <p><a href="https://Mikaildokgoz.github.io/RecipeApp" target="_blank" rel="noreferrer">RecipeApp</a></p>
   <p><a href="https://firebase-movieapp.netlify.app/" target="_blank" rel="noreferrer">ReactMovieApp</a></p>
-  <p><a href="https://reactrandomuser2.netlify.app/" target="_blank" rel="noreferrer">ReactRandomUserApp</a></p>
   <p><a href="https://tasktracer.netlify.app/" target="_blank" rel="noreferrer">ReactTaskTracker</a></p>
   <p><a href="https://react-projecttour.netlify.app" target="_blank" rel="noreferrer">ReactTourPlaces</a></p>
   <p><a href="https://mikail-language-cards.netlify.app" target="_blank" rel="noreferrer">ReactLanguageCards</a></p>
